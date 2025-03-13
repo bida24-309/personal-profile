@@ -12,16 +12,14 @@ header h2 {
         text-align: center;
 }
         
-ul {
-        list-style-type: none;
-        padding: 0;
-} 
-        
-ul li {
-       background: #f8f9fa;
-       padding: 10px
-       margin: 5px 0;
-       border-left: 5px solid #007bff;
+nav {
+   color: 
+   text-decoration: none;
+   margin: 0 10px;     
+}
+
+nav a:hover {
+   text-decoration: underline;     
 }
         
 footer {

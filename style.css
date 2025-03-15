@@ -38,6 +38,11 @@ footer {
       position: fixed;
       bottom: 0;
       width: 100%;  
+}  
+
+img {
+    border: 10px solid Purple;
+    border-radius: 10px;    
 }        
 
 

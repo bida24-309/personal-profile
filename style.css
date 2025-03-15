@@ -1,11 +1,11 @@
 body {
         font-family: Arial, sans-serif;
-        color: White;
+        color: Pink;
         background-color: Pink;
         margin: 0;
         padding: 0;
-        line height: 1.0;
-        borderline: thick bold line;
+        line height: 1.6;
+        border-line: bold-line;
 }
         
 header {

@@ -20,7 +20,8 @@ nav {
 }
 
 nav a:hover {
-   text-decoration: underline;     
+   text-decoration: underline;  
+   color: Red;     
 }
 
 main {
@@ -30,7 +31,7 @@ main {
 }
         
 footer {
-      background-color: #333;
+      background-color: Pink;
       color: white;
       text-align: center;
       padding: 10px;

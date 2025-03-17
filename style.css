@@ -21,7 +21,8 @@ nav {
 
 nav a:hover {
    text-decoration: underline;  
-   color: Red;     
+   color: purple; 
+   Background-color: red;     
 }
 
 main {

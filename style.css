@@ -20,7 +20,7 @@ nav {
 
 a:hover {
    text-decoration: box;  
-   link color: black; 
+   link color: blue; 
    Background-color: purple;     
 }
 
@@ -31,7 +31,7 @@ main {
 }
 
 p1 {
-    color: purple;
+    color: white;
     text decoration: box   
         
 footer {

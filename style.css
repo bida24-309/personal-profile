@@ -5,11 +5,7 @@ body {
         margin: 0;
         padding: 0;
         line height: 1.0;
-}    
-
-#copyright {
-           width:1240px;
-           border: solid thick black;
+        border: thin solid;
 }
         
 header {
